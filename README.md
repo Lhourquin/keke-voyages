@@ -2,7 +2,7 @@
 
 ---
 
-##### Contexte du projet
+#### Contexte du projet
 
 Votre client, une agence de voyages, souhaite proposer la possibilité de réserver en ligne des billets d'avion à leurs clients.
 
@@ -55,7 +55,7 @@ Pour l'application :
 
 ---
 
-## Partie I : Règles métier : 
+## Règles métier : 
 
 
 RESERVATION  
